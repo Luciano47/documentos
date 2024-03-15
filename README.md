@@ -1,2 +1,2 @@
-# documentos
- meu primeiro documento guite
+meu primeiro documento em git 
+ sempre colocar o readme ?
