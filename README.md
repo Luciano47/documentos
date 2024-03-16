@@ -3,3 +3,4 @@ meu primeiro documento em git
  estarei em viagem 
 OLA MUNDO VAMOS AO GUITE
 vamos editar mas coisa no git
+sempre assim 
